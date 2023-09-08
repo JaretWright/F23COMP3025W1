@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)  //connect the controller class to access the binding class
 
         binding.button.setOnClickListener {
-            binding.textView.text = "Hello "+binding.nameEditText.text.toString()
+            binding.textView.text = "This is awesome"+binding.nameEditText.text.toString()
         }
     }
 }
