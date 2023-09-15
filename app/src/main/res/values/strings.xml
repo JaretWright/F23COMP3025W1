@@ -2,4 +2,6 @@
     <string name="app_name">F23COMP3025W1</string>
     <string name="button">Submit</string>
     <string name="enter_name">Enter Name</string>
+    <string name="hello_world">Hello World</string>
+    <string name="booyah">Booyah</string>
 </resources>
